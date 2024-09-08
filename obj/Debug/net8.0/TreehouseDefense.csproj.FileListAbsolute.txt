@@ -12,3 +12,4 @@ C:\Users\strad\source\repos\TreehouseDefense\TreehouseDefense\obj\Debug\net8.0\r
 C:\Users\strad\source\repos\TreehouseDefense\TreehouseDefense\obj\Debug\net8.0\TreehouseDefense.pdb
 C:\Users\strad\source\repos\TreehouseDefense\TreehouseDefense\obj\Debug\net8.0\TreehouseDefense.genruntimeconfig.cache
 C:\Users\strad\source\repos\TreehouseDefense\TreehouseDefense\obj\Debug\net8.0\ref\TreehouseDefense.dll
+C:\Users\strad\source\repos\TreehouseDefense\TreehouseDefense\obj\Debug\net8.0\TreehouseDefense.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TreehouseDefense")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e271a715ea586b15aed146170d4010307fc098c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e580cb08f7c032d375e79b26f5cb95d6f7bd9d7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("TreehouseDefense")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TreehouseDefense")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

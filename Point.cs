@@ -6,22 +6,20 @@ using System.Threading.Tasks;
 
 namespace TreehouseDefense
 {
-    class Point
+    public class Point
     {
         public readonly int X;
         public readonly int Y;
+
         public Point(int x, int y)
         {
-            X = x; 
+            X = x;
             Y = y;
         }
-        public int DistanceTo(int x, int y)
+
+        public double DistanceTo(Point point)
         {
-            return (int)Math.Sqrt(Math.Pow(X - x, 2) + Math.Pow(Y - y, 2));
-        }
-        public int DistanceTo(Point point)
-        {
-            return DistanceTo(point.X, point.Y);
+            return Math.Sqrt(Math.Pow(X - point.X, 2.0) + Math.Pow(Y - point.Y, 2.0));
         }
     }
 }
